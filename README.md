@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=welcome)
 
 <!--
 **Hyjpark/Hyjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
